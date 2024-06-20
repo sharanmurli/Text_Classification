@@ -1,6 +1,6 @@
-## Project Title
+## Text Classification using Python and Keras
 
-Text Classification using Python and Keras
+---
 
 ## Project Description
 
